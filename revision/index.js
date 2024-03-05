@@ -1,0 +1,11 @@
+const fs = require('fs');
+//fs.mkdirSync("thapa");
+//fs.writeFileSync("thapa/bio.txt","hello");
+//fs.appendFileSync("thapa/bio.txt","   second line");
+// const buf_data=fs.readFileSync("thapa/bio.txt");
+// const org_data=buf_data.toString();
+ //const buf_data=fs.readFileSync("thapa/bio.txt","utf8");
+// console.log(org_data);
+//fs.renameSync("thapa/bio.txt", "mybio.txt");
+//fs.unlinkSync("thapa/bio.txt");
+ //fs.rmdirSync("thapa");
